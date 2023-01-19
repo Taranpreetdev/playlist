@@ -22,8 +22,8 @@ let songs = [
     { songName: "Still D.R.E.", filePath: "songs/6.mp3", coverPath: "covers/index6.jpg" },
     { songName: "Kesariya", filePath: "songs/7.mp3", coverPath: "covers/index7.jpg" },
     { songName: "Jalebi Baby", filePath: "songs/8.mp3", coverPath: "covers/index8.jpg" },
-    { songName: "Let me love you", filePath: "songs/9.mp3", coverPath: "covers/index9.jpg" },
-    { songName: "Let me love you", filePath: "songs/10.mp3", coverPath: "covers/index10.jpg" },
+    { songName: "Insane", filePath: "songs/9.mp3", coverPath: "covers/index9.jpg" },
+    { songName: "Chauffeur", filePath: "songs/10.mp3", coverPath: "covers/index10.jpg" },
 
 
 
