@@ -147,14 +147,28 @@ cursor:pointer;
     transition: opacity 0.4s ease-in;
 }
 
-@media only screen and (min-width: 260px) and (min-height: 500px) {
 
+@media only screen and (max-width: 600px) {
+    .songItem{
+        width:100%;
+        font-size: 8px;
+    }
 
-.songItem{
-    width:100%;
-    font-size: 12px;
-}
+    .songInfo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-left: 60px;
+        padding-bottom: 30px;
+    }
 
+    .icons{
+        padding-top: 50px;
+       
+    }
+    
+    
+    
+    }
+      
 
-
-}
