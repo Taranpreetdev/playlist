@@ -17,7 +17,7 @@ let songs = [
     { songName: "Dandelions - Ruth B ", filePath: "songs/1.mp3", coverPath: "covers/index1.jpg" },
     { songName: "Calm Down - Rema ", filePath: "songs/2.mp3", coverPath: "covers/index2.jpg" },
     { songName: "Levitating - Dua Lipa ", filePath: "songs/3.mp3", coverPath: "covers/index3.jpg" },
-    { songName: "Gaddi Red  - Babbulicious", filePath: "songs/4.mp3", coverPath: "covers/index4.jpg" },
+    { songName: "Gaddi  - Babbulicious", filePath: "songs/4.mp3", coverPath: "covers/index4.jpg" },
     { songName: "Scars  - Alessia Cara ", filePath: "songs/5.mp3", coverPath: "covers/index5.jpg" },
     { songName: "Still D.R.E. - Dr. Dre ", filePath: "songs/6.mp3", coverPath: "covers/index6.jpg" },
     { songName: "Kesariya - Arijit Singh ", filePath: "songs/7.mp3", coverPath: "covers/index7.jpg" },

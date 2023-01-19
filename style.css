@@ -151,7 +151,7 @@ cursor:pointer;
 @media only screen and (max-width: 600px) {
     .songItem{
         width:100%;
-        font-size: 8px;
+        font-size: 10px;
     }
 
     .songInfo{
@@ -169,6 +169,10 @@ cursor:pointer;
 
     .bottom{
         height:60vw;
+    }
+
+    .far.songItemPlay.fa-circle-play{
+        font-size: 17px;
     }
     
     
