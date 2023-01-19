@@ -147,5 +147,13 @@ cursor:pointer;
     transition: opacity 0.4s ease-in;
 }
 
+@media only screen and (min-width: 260px) and (min-height: 500px) {
 
 
+.songItem{
+    width:100%;
+}
+
+
+
+}
