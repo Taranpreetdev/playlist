@@ -5,6 +5,18 @@
 /* font-family: 'Varela Round', sans-serif; */
 
 
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+    .brand img{
+        
+    }
+  }
+
+
 body{
     background-color: antiquewhite;
 }
@@ -52,8 +64,8 @@ nav ul li{
     color: white;
     font-family: 'Varela Round', sans-serif;
     display: flex;
-    margin: 23px auto;
-    width:70%;
+    margin: 3vw;
+    width:auto;
     border-radius: 12px;
     padding: 34px;
     background-image: url(bg.jpg);
